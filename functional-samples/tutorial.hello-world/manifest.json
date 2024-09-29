@@ -1,10 +1,17 @@
 {
-  "name": "Hello Extensions",
-  "description": "Base Level Extension",
-  "version": "1.0",
+  "name": "Margescu Bogdan Marius",
+  "description": "Margescu Bogdan Marius
   "manifest_version": 3,
   "action": {
-    "default_popup": "hello.html",
-    "default_icon": "hello_extensions.png"
+    Nume: "Margescu"
+    Prenume: "Bogdan Marius"
+    SerieCI: "IF"
+    NumarCI: "939493"
+    civalabilitate: "23.04.2024"
+    CIvalabipanla: "03.08.2031"
+    CNP: "1800918030013"
+    Adresa: "Clinceni, sat Ordoreanu Str Tudor Vladimirescu nr 22A"
+    Telefon: "0726122772"
+
   }
 }
